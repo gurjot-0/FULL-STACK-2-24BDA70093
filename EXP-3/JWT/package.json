@@ -1,0 +1,19 @@
+{
+  "name": "jwt-access-control-lab",
+  "version": "1.0.0",
+  "description": "Interactive demo of stateless authentication with JSON Web Tokens (JWT) — Experiment 1.3.1: Secure Authentication using JWT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
